@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+dist/
+ai/venv/
+venv/
+.env
+**/.env
+*.pem
+__pycache__/
+*.pyc
+
+yolo11n.pt
+ai/yolo11n.pt
+package-lock.zip
